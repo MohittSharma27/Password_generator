@@ -5,11 +5,10 @@ A simple and lightweight Password Generator web app built using HTML, CSS, and J
 ✅ Generate random secure passwords
 
 ✅ Options for including:
-
-### Uppercase letters
-### Lowercase letters
-### Numbers
-## Symbols
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
 
 ✅ Adjustable password length
 
