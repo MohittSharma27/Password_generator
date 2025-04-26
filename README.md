@@ -1,5 +1,5 @@
 # Password Generator
-A simple and lightweight Password Generator web app built using HTML, CSS, and JavaScript. This tool helps you instantly generate strong, secure, and customizable passwords with just one click. It features a clean and user-friendly interface, making it easy for anyone to use.
+A simple and lightweight Password Generator web app built using HTML, TailwindCSS, and JavaScript. This tool helps you instantly generate strong, secure, and customizable passwords with just one click. It features a clean and user-friendly interface, making it easy for anyone to use.
 
 # 🌟 Features
 ✅ Generate random secure passwords
@@ -21,7 +21,7 @@ A simple and lightweight Password Generator web app built using HTML, CSS, and J
 
 # 🛠️ Tech Stack
   - HTML – Structure of the app
-  - CSS – Styling and responsive layout
+  - TailwindCSS – Styling and responsive layout
   - JavaScript – Core logic for password generation and interactivity
 
 # 💡 Future Improvements
